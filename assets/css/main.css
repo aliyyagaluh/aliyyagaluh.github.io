@@ -1648,8 +1648,8 @@
 
 	#main-wrapper {
 		background: #fff;
-		border-top: solid 5px #347cef;
-		border-bottom: solid 5px #c1cac5;
+		border-top: solid 5px #40a4df;
+		border-bottom: solid 5px #40a4df;
 	}
 
 /* Banner */
@@ -2000,7 +2000,7 @@
 					}
 
 					#nav li.current a {
-						background: #b1ddab;
+						background: #40a4df;
 						color: #fff;
 					}
 
