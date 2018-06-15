@@ -1677,27 +1677,7 @@
 			color: #575d59;
 		}
 
-		#banner .button {
-			-moz-transition: border-color .2s ease-in-out, color .2s ease-in-out;
-			-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
-			-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
-			transition: border-color .2s ease-in-out, color .2s ease-in-out;
-			color: #b4b7b5;
-			background: transparent !important;
-			border: solid 4px #575d59;
-			border-color: rgba(87, 93, 89, 0.35);
-			border-radius: 16px;
-		}
 
-			#banner .button:hover {
-				color: #e4e7e5;
-				border-color: rgba(87, 93, 89, 0.75);
-			}
-
-			#banner .button:active {
-				color: #fff;
-				border-color: #616763;
-			}
 
 /* Footer */
 
@@ -1885,11 +1865,11 @@
 		/* Wrappers */
 
 			#banner-wrapper {
-				padding: 11em 0;
+				padding: 10em 0;
 			}
 
 			#main-wrapper {
-				border-top-width: 35px;
+				border-top-width: 30px;
 				border-bottom-width: 10px;
 			}
 
@@ -2070,7 +2050,7 @@
 
 				#banner p {
 					font-size: 1.35em;
-					margin: 0 0 1.25em 0;
+					margin: 0 4em 1.25em 4em;
 				}
 
 				#banner .button {
@@ -2416,7 +2396,6 @@
 
 			#banner {
 				padding: 2.5em 20px;
-				margin: 0 !important;
 			}
 
 				#banner h2 {
